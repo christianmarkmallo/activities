@@ -1,0 +1,14 @@
+.redborder {
+	border-color: red;
+}
+label{
+	font-size: 15pt;
+	font-weight: bold;
+}
+.error{
+	color: red;
+}
+
+.hidden{
+	display: none;
+}
